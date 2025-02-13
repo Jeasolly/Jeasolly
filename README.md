@@ -1,7 +1,7 @@
 ![jeanpierre gamarra velasque ](https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jean Pierre Gamarra</h2>
 
 <!-- ## 👋 ¡Hola! Soy Jeanpierre -->
 
@@ -9,7 +9,7 @@
 
 💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.
 🎓 &nbsp;Vivo en Lima, Perú y tengo experiencia en desarrollo de aplicaciones con Flutter.
-🌱 &nbsp;Actualmente, estoy trabajando en una aplicación para la gestión de estacionamientos automatizados.
+🌱 &nbsp;Actualmente, estoy trabajando en una empresa de gestión de estacionamientos automatizados.
 ✍️ &nbsp;Me interesa la integración de inteligencia artificial en aplicaciones para mejorar la experiencia del usuario.
 💬 &nbsp;Si necesitas ayuda con desarrollo de software o tienes una idea interesante, estaré encantado de conversar.
 ✉️ &nbsp;Puedes escribirme a mi correo, responderé lo antes posible.
