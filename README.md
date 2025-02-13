@@ -55,8 +55,8 @@
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-jeanpierre.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-jeanpierre%20G%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-jeangamarra1@gmail.copm-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@jeanpierre__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-jeangamarra1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
