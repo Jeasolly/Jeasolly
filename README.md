@@ -3,7 +3,7 @@
 
 
 
-# Hey! 👋 Nice to see you. #
+# Hello! 👋 My name is Jean Pierre. # 
 
 
 
