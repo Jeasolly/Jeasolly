@@ -1,67 +1,122 @@
-![jeanpierre gamarra velasque ](https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg)
+![Banner Jean Gamarra](https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg)
 
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jean Pierre Gamarra</h2>
+<h2>Hola, soy Jean Pierre Gamarra 👋</h2>
 
-<!-- ## 👋 ¡Hola! Soy Jeanpierre -->
+### 👨‍💻 Sobre mí
 
-### 👨‍💻 &nbsp;Sobre mí
+Soy desarrollador Full Stack e integrador de soluciones tecnológicas, enfocado en crear aplicaciones web, aplicaciones móviles, APIs REST y sistemas empresariales conectados a operación real.
 
-💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.
-🎓 &nbsp;Vivo en Lima, Perú y tengo experiencia en desarrollo de aplicaciones con Flutter.
-🌱 &nbsp;Actualmente, estoy trabajando en una empresa de gestión de estacionamientos automatizados.
-✍️ &nbsp;Me interesa la integración de inteligencia artificial en aplicaciones para mejorar la experiencia del usuario.
-💬 &nbsp;Si necesitas ayuda con desarrollo de software o tienes una idea interesante, estaré encantado de conversar.
-✉️ &nbsp;Puedes escribirme a mi correo, responderé lo antes posible.
+Tengo experiencia desarrollando soluciones con Flutter, Node.js, PHP, MySQL y servidores VPS. Actualmente estoy fortaleciendo mi perfil con tecnologías modernas como React, Next.js, PostgreSQL, Prisma y TypeScript.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+Me interesa construir sistemas que no solo funcionen en código, sino que resuelvan problemas reales: gestión de usuarios, paneles administrativos, automatización de procesos, integración de pagos, facturación electrónica, control de operaciones y conexión entre software, hardware y servicios externos.
 
-### 🛠 &nbsp;Tecnologías que uso
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="320"/>
+
+### 🚀 Actualmente enfocado en
+
+- Desarrollo Full Stack con React, Next.js y Node.js.
+- Bases de datos con PostgreSQL, MySQL y Prisma ORM.
+- Desarrollo de paneles administrativos modernos.
+- Creación de APIs REST seguras y escalables.
+- Aplicaciones móviles con Flutter.
+- Automatización e integración de sistemas empresariales.
+- Despliegue de proyectos en VPS Linux con Nginx, PM2 y SSL.
+
+---
+
+### 🛠 Tecnologías principales
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### 📌 Áreas de experiencia
+
+- Desarrollo de aplicaciones web y móviles.
+- Paneles administrativos empresariales.
+- Backend y APIs REST.
+- Bases de datos relacionales.
+- Integración de pagos digitales.
+- Facturación electrónica.
+- Automatización de procesos.
+- Despliegue en servidores VPS.
+- Integración de software con servicios externos.
+- Sistemas de parking, control de acceso y operación en campo.
+
+---
+
+### 💼 Proyectos destacados
+
+#### 🧩 Panel administrativo moderno
+Sistema web desarrollado con React, Next.js, PostgreSQL y Prisma para gestión de usuarios, roles, módulos y configuraciones.
+
+#### 📱 Aplicación móvil Flutter
+Aplicación móvil enfocada en operaciones, validaciones, registros, consultas en tiempo real y conexión con APIs.
+
+#### 🔌 Backend API REST
+Servicios backend desarrollados con Node.js, Express, PHP y bases de datos relacionales para conectar sistemas web, móviles y servicios externos.
+
+#### 💳 Integración de pagos y facturación
+Flujos de consulta, validación, pago digital, emisión de comprobantes electrónicos y actualización de estados mediante APIs.
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/JeanpierreGV">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkobuolys&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/JeanpierreGV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanpierreGV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanpierreGV&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+### 🤝 Contacto
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-jeanpierre.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-jeanpierre%20G%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-jeangamarra1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@jeanpierre-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+  <a href="mailto:jeangamarra1@gmail.com">
+    <img src="https://img.shields.io/badge/-jeangamarra1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeangamarra-dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JeanpierreGV">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
------
+---
 
-Last Edited on: 13/02/2025
+<p align="center">
+  <i>Construyendo soluciones reales con software, APIs, bases de datos y automatización.</i>
+</p>
+
+Última actualización: 21/05/2026
