@@ -1,14 +1,16 @@
-![Banner Jean Gamarra](https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg)
+![Banner Jean Gamarra]([https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg)![Banner Jean Gamarra](https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg](https://www.linkedin.com/in/jeangamarra-dev/overlay/background-photo/))
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 
 <h2>Hola, soy Jean Pierre Gamarra 👋</h2>
 
+---
+
 ### 👨‍💻 Sobre mí
 
 Soy desarrollador Full Stack e integrador de soluciones tecnológicas, enfocado en crear aplicaciones web, aplicaciones móviles, APIs REST y sistemas empresariales conectados a operación real.
 
-Tengo experiencia desarrollando soluciones con Flutter, Node.js, PHP, MySQL y servidores VPS. Actualmente estoy fortaleciendo mi perfil con tecnologías modernas como React, Next.js, PostgreSQL, Prisma y TypeScript.
+Tengo experiencia desarrollando soluciones con Flutter, Node.js, PHP, MySQL, APIs REST y servidores VPS. Actualmente estoy fortaleciendo mi perfil con tecnologías modernas como React, Next.js, PostgreSQL, Prisma y TypeScript.
 
 Me interesa construir sistemas que no solo funcionen en código, sino que resuelvan problemas reales: gestión de usuarios, paneles administrativos, automatización de procesos, integración de pagos, facturación electrónica, control de operaciones y conexión entre software, hardware y servicios externos.
 
@@ -45,8 +47,8 @@ Me interesa construir sistemas que no solo funcionen en código, sino que resuel
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -75,27 +77,87 @@ Me interesa construir sistemas que no solo funcionen en código, sino que resuel
 ### 💼 Proyectos destacados
 
 #### 🧩 Panel administrativo moderno
-Sistema web desarrollado con React, Next.js, PostgreSQL y Prisma para gestión de usuarios, roles, módulos y configuraciones.
 
-#### 📱 Aplicación móvil Flutter
-Aplicación móvil enfocada en operaciones, validaciones, registros, consultas en tiempo real y conexión con APIs.
+Sistema web desarrollado con React, Next.js, PostgreSQL y Prisma para la gestión de usuarios, roles, módulos, proyectos y configuraciones del sistema.
 
-#### 🔌 Backend API REST
-Servicios backend desarrollados con Node.js, Express, PHP y bases de datos relacionales para conectar sistemas web, móviles y servicios externos.
-
-#### 💳 Integración de pagos y facturación
-Flujos de consulta, validación, pago digital, emisión de comprobantes electrónicos y actualización de estados mediante APIs.
+**Tecnologías:** React, Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS.
 
 ---
 
-### 📊 GitHub Analytics
+#### 📱 Aplicación móvil Flutter
 
-<p align="center">
-  <a href="https://github.com/JeanpierreGV">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanpierreGV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanpierreGV&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+Aplicación móvil enfocada en operaciones en campo, validaciones, registros, consultas en tiempo real y conexión con APIs REST.
+
+**Tecnologías:** Flutter, Dart, APIs REST, almacenamiento local, integración backend.
+
+---
+
+#### 🔌 Backend API REST
+
+Servicios backend desarrollados con Node.js, Express, PHP y bases de datos relacionales para conectar aplicaciones web, móviles, servicios externos y sistemas locales.
+
+**Tecnologías:** Node.js, Express, PHP, MySQL, PostgreSQL, APIs REST.
+
+---
+
+#### 💳 Integración de pagos y facturación
+
+Flujos de consulta, validación, pago digital, emisión de comprobantes electrónicos y actualización de estados mediante APIs.
+
+**Tecnologías:** JavaScript, Node.js, PHP, MySQL, APIs, pasarelas de pago, facturación electrónica.
+
+---
+
+### 🧭 En qué estoy trabajando actualmente
+
+Actualmente estoy construyendo y mejorando proyectos enfocados en desarrollo Full Stack moderno, integrando frontend, backend, base de datos y despliegue en servidores.
+
+#### 🔹 Panel administrativo web
+
+Desarrollo de un panel moderno con React, Next.js, TypeScript, PostgreSQL y Prisma, orientado a la gestión de usuarios, roles, proyectos y configuraciones del sistema.
+
+#### 🔹 Backend con APIs REST
+
+Creación de servicios backend con Node.js y Express, conectados a bases de datos relacionales y preparados para integrarse con aplicaciones web, móviles y servicios externos.
+
+#### 🔹 Aplicaciones móviles
+
+Desarrollo de aplicaciones en Flutter para operaciones en campo, validaciones, consultas en tiempo real y conexión con APIs.
+
+#### 🔹 Infraestructura y despliegue
+
+Configuración de proyectos en VPS Linux usando Nginx, PM2, SSL, dominios y subdominios para entornos de desarrollo y producción.
+
+---
+
+### 🎯 Objetivo profesional
+
+Seguir creciendo como desarrollador Full Stack, creando soluciones reales con tecnologías modernas, buenas prácticas de arquitectura, bases de datos bien estructuradas y despliegues seguros en producción.
+
+---
+
+### 🧩 Mi enfoque de trabajo
+
+```txt
+Frontend moderno        → React / Next.js / Tailwind CSS
+Backend escalable       → Node.js / Express / APIs REST
+Base de datos           → PostgreSQL / MySQL / Prisma ORM
+Aplicaciones móviles    → Flutter / Dart
+Infraestructura         → VPS / Linux / Nginx / PM2 / SSL
+Integraciones           → Pagos / Facturación / Sistemas externos
+```
+
+---
+
+### 📚 Actualmente aprendiendo y reforzando
+
+- React y Next.js para desarrollo web moderno.
+- TypeScript para escribir código más seguro y mantenible.
+- PostgreSQL para bases de datos relacionales robustas.
+- Prisma ORM para modelado y acceso eficiente a datos.
+- Arquitectura full stack para paneles administrativos.
+- Seguridad básica en backend y manejo de autenticación.
+- Buenas prácticas de Git, GitHub y documentación técnica.
 
 ---
 
