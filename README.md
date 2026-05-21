@@ -1,4 +1,5 @@
-![Banner Jean Gamarra]([https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg)![Banner Jean Gamarra](https://www.unilibre.edu.co/bogota/images/2018/septiembre/banner-sistemas.jpg](https://www.linkedin.com/in/jeangamarra-dev/overlay/background-photo/))
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/8b00364d-fd56-4e86-8ea7-132832dc541f" />
+
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 
